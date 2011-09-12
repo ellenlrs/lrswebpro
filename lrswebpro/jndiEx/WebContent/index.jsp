@@ -25,7 +25,7 @@ rs = stmt.executeQuery("SELECT * FROM product");
 <TABLE  bgcolor=DodgerBlue>
     <TR  bgcolor=SkyBlue>
     <TD><B>title_id</B></TD>
-    <TD><B>title_name</B></TD>
+    <TD><B>title_namexxx</B></TD>
     </TR>
     <%
     //利用while迴圈將資料表中的記錄列出
